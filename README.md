@@ -12,7 +12,7 @@ ps：项目原作者为hollowman6
 
 [Python库依赖](../../network/dependencies)
 
-此程序使用Python的selenium库，使用前请确保电脑上已经安装了Google Chrome浏览器，并且在程序执行目录下放置了[Chrome Driver](https://chromedriver.chromium.org)
+此程序使用Python的selenium库，使用前请确保电脑上已经安装了Google Chrome浏览器，并且在程序执行目录下放置了[Chrome Driver](https://chromedriver.chromium.org)，并且要注意浏览器的版本号要和chromedriover保持一致。具体可自行搜索selenium的具体使用教程。
 
 此程序适用于 `http://qa.lzu.edu.cn:8081` 页面的评教。
 
