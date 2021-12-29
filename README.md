@@ -1,4 +1,5 @@
 # 兰州大学自动评教
+代码参考自LZU的hollowman6
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/LZU-Auto-Course-Evaluation-Feedback)](../../graphs/commit-activity)
 
