@@ -1,4 +1,5 @@
 # 兰州大学自动评教
+ps：项目原作者为HOLLOMAN
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/LZU-Auto-Course-Evaluation-Feedback)](../../graphs/commit-activity)
 ![Python package](https://github.com/HollowMan6/LZU-Auto-Course-Evaluation-Feedback/workflows/Python%20package/badge.svg)
@@ -40,6 +41,8 @@
 * [兰州大学自动评教 脚本](LZU-Auto-Course-Evaluation-Feedback.py)
 
 测试于2021年11月12日, 2021-2022学年第一学期期中评教。
+
+ps：项目原作者为HOLLOMAN
 
 **警告**：
 
