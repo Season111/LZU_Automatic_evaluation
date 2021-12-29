@@ -7,14 +7,6 @@ ps：项目原作者为hollowman6
 [![watchers](https://img.shields.io/github/watchers/Season111/LZU_Automatic_evaluation?style=social)](../../watchers)
 [![stars](https://img.shields.io/github/stars/Season111/LZU_Automatic_evaluation?style=social)](../../stargazers)
 [![forks](https://img.shields.io/github/forks/Season111/LZU_Automatic_evaluation?style=social)](../../network/members)
-[![forks](https://img.shields.io/github/issues/Season111/LZU_Automatic_evaluation)](../../network/members)
-
-[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
-[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
-[![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.svg)](../../archive/master.zip)
-
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/LZU-Auto-Course-Evaluation-Feedback/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/HollowMan6/LZU-Auto-Course-Evaluation-Feedback.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/LZU-Auto-Course-Evaluation-Feedback/context:python)
 
 (English version is down below)
 
