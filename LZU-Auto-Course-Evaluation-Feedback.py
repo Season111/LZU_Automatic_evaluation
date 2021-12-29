@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# by 'Season111' from Lanzhou University(兰州大学)
+# by 'Season111' from Lanzhou University(兰州大学),Reference "Hollowman6" from Lanzhou University
 
 '''
 警告：
