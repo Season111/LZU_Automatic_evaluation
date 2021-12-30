@@ -10,7 +10,8 @@
 
 (English version is down below)
 
-可直接运行脚本中的.exe文件，之后登陆账号，即可完成评教。
+##可直接运行脚本中的.exe文件，之后登陆账号，即可完成评教，值得注意的是，由于调用的是chromedriver，必须使用谷歌浏览器才可以正常使用。##
+##
 
 [Python库依赖](../../network/dependencies)
 
