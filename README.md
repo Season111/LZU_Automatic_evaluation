@@ -13,6 +13,9 @@
 **可直接运行脚本中的.exe文件，之后登陆账号，即可完成评教，值得注意的是，由于调用的是chromedriver，必须使用谷歌浏览器才可以正常使用。**
 **使用python脚本的话可以自行下载自己浏览器对应的driver，[Chrome Driver](https://chromedriver.chromium.org),[Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)**
 
+已知bug：
+在进行医学校区评教时，会出现无限弹出医学校区评教而无法正常进行期末评教的情况
+
 [Python库依赖](../../network/dependencies)
 
 
