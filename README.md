@@ -10,8 +10,8 @@
 
 (English version is down below)
 
-# 可直接运行脚本中的.exe文件，之后登陆账号，即可完成评教，值得注意的是，由于调用的是chromedriver，必须使用谷歌浏览器才可以正常使用。#
-# 使用python脚本的话可以自行下载自己浏览器对应的driver，[Chrome Driver](https://chromedriver.chromium.org),[Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) #
+**可直接运行脚本中的.exe文件，之后登陆账号，即可完成评教，值得注意的是，由于调用的是chromedriver，必须使用谷歌浏览器才可以正常使用。**
+**使用python脚本的话可以自行下载自己浏览器对应的driver，[Chrome Driver](https://chromedriver.chromium.org),[Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)**
 
 [Python库依赖](../../network/dependencies)
 
@@ -20,7 +20,6 @@
 
 此程序适用于 `http://qa.lzu.edu.cn:8081` 页面的评教。
 
-或者直接运行exe文件即可使用（可能需要开代理）
 
 ## 使用方法
 
