@@ -1,5 +1,5 @@
 # 兰州大学自动评教
-代码参考自LZU的hollowman6
+代码参考自LZU的hollowman6,他账号被封以后就找不到类似的脚本了。
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/LZU-Auto-Course-Evaluation-Feedback)](../../graphs/commit-activity)
 
