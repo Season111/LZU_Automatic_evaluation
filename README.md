@@ -14,6 +14,7 @@
 **使用python脚本的话可以自行下载自己浏览器对应的driver，[Chrome Driver](https://chromedriver.chromium.org),[Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)**
 
 **目前程序运行还不够流畅，在期末考试考完后会对其进行优化**
+
 已知bug：
 在进行医学校区评教时，会出现无限弹出医学校区评教而无法正常进行期末评教的情况
 
